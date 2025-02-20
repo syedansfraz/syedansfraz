@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ansshah6516@gmail.com**
 
-- 📄 Know about my experiences [by visiting my Portfolio](by visiting my Portfolio)
+- 📄 Know about my experiences by visiting my Portfolio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
