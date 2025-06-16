@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Ans Fraz</h1>
-<h3 align="center">A passionate Software Developer from Pakistan</h3>
+<h3 align="center">An aspiring Full Stack Developer & Cybersecurity enthusiast from Pakistan</h3>
 
 Most of the projects you'll find here are part of my **learning journey** — built while exploring **Full Stack Development** and **Cybersecurity**.
 
 I'm passionate about turning ideas into working solutions and love connecting **theory** with **real-world practice**. Every repo here is a small step forward in my goal to become a better developer.
-
-💡 **Feel free to check out my work, drop a star, or connect if we share similar interests!**
 
 
 💡 **Feel free to check out my work, drop a star, or connect if we share similar interests!**
